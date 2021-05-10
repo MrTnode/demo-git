@@ -3,3 +3,7 @@ git init: khỏi tạo thư mục git local
 git status: kiểm tra status của file
 git add . : đưa tất cả các file có sự thay đổi vào vùng staging
 git add [tên_file]: đưa 1 file có sự thay đổi vào vùng staging
+git rm --cached <file>: đưa 1 file từ staging quay ngược lại vùng working directory
+git config --global user.email "trung.nguyen280901@hcmu.edu.vn":set email
+git config --global user.name "ezedward":set tên 
+git commit -m "message" : đưa các file có sự thay đổi sang vùng local repo(thư mục git)
