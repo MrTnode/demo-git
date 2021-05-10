@@ -1,0 +1,5 @@
+git clone: kéo dự án trên sever về máy tính 
+git init: khỏi tạo thư mục git local
+git status: kiểm tra status của file
+git add . : đưa tất cả các file có sự thay đổi vào vùng staging
+git add [tên_file]: đưa 1 file có sự thay đổi vào vùng staging
